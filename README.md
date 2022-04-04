@@ -32,11 +32,11 @@ docker-compose down
 Plantuml Class Diagram
 ```
 
-![Class Diagram](class_digram/Class.png)
+![Class Diagram](class_diagram/Class.png)
 
 
 ## NGINX, Flask Web Application 
 ```
 NGINX Web Server 
 ```
-![Class Diagram](class_digram/NGINX.png)
+![Class Diagram](class_diagram/NGINX.png)
