@@ -1,7 +1,6 @@
 """
 The module for User Routes.
 Amer Ahmed
-Amir Ramic
 Supervisor: Joakim Wassberg
 Version 0.0.1
 """
