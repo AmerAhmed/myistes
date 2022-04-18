@@ -1,7 +1,6 @@
 """
 This is config for Flask-applications!
 Amer Ahmed
-Amir Ramic
 Supervisor: Joakim Wassberg
 Version 0.0.1
 """
